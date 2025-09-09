@@ -6,9 +6,7 @@
 
 [Portfolio](https://emanuelgh.dev/) • [LinkedIn](https://www.linkedin.com/in/emanuelgh/) • [GitHub](https://github.com/emanuelghdev)
 
-<div>
-<p></p>
-</div>
+
 
 ## 💼 About Me
 
@@ -40,9 +38,7 @@
 ) ![CSS](https://img.shields.io/badge/CSS-%230f2267?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI1MDAiIHdpZHRoPSIyMTgzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjQgMTQxLjUzIj48cGF0aCBkPSJNMTAuMzgzIDEyNi44OTJMMCAwbDEyNCAuMjU1LTEwLjk3OSAxMjYuNjM3LTUwLjU1MyAxNC42Mzh6IiBmaWxsPSIjMWI3M2JhIi8%2BPHBhdGggZD0iTTYyLjQ2OCAxMjkuMjc1VjEyLjA4NWw1MS4wNjQuMTctOS4xMDYgMTA0Ljg1eiIgZmlsbD0iIzFjODhjNyIvPjxwYXRoIGQ9Ik0xMDAuODUxIDI3LjA2NEgyMi4yOThsMi4xMjggMTUuMzE4aDM3LjI3NmwtMzYuNjggMTUuNzQ1IDIuMTI3IDE0LjgwOGg1NC4wNDNsLTEuOTU4IDIwLjY4LTE4LjI5OCAzLjU3NS0xNi41OTUtNC4yNTUtMS4yNzctMTEuNzQ1SDI3LjgzbDIuMDQyIDI0LjQyNiAzMi42ODEgOS4xMDYgMzEuMzItOS45NTcgNC00Ny43NDVINjQuNzY1bDM2LjA4NS0xNC45Nzh6IiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B&logoColor=white
 ) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div>
-<p></p>
-</div>
+
 
 ## 📈 GitHub Analytics
 
