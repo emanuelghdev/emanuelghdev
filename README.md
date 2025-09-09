@@ -6,6 +6,7 @@
 
 [Portfolio](https://emanuelgh.dev/) • [LinkedIn](https://www.linkedin.com/in/emanuelgh/) • [GitHub](https://github.com/emanuelghdev)
 
+<p></p>
 
 ## 💼 About Me
 
@@ -28,6 +29,7 @@
     <p></p>
 </div>
 
+<p></p>
 
 ## 💻 Tech Stack
 
